@@ -34,12 +34,12 @@ def logError(text):
 def helpmessage():
     helpMessage = """
 ╔═══════════
-╠♥ ✿ CoCo指令表 ✿ ♥
-╠➥ 「Speed」查看機器速度
+╠♥✿小指令表✿
+╠➥「速度」查看機器速度
 ╠➥ 「Set」查看設定
 ╠➥ 「Reread On/Off」查看收回 打開/關閉
-╠➥ 「Setread」設定已讀點
-╠➥ 「Lookread」查詢已讀點
+╠➥「Setread」設定已讀點
+「Lookread」查詢已讀點
 ╠➥ 「Tagall」標註全部人
 ╚═〘 Credits By: ©CoCo™  〙
 """
