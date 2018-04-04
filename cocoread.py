@@ -43,10 +43,10 @@ def helpmessage():
 ╠➥ 「Tagall」標註全部人
 ╚═〘 Credits By: ©CoCo™  〙
 """
-    return helpMessage
-admin=['u28d781fa3ba9783fd5144390352b0c24',clMID]
-def lineBot(op):
-    try:
+    返回 helpMessage
+admin   = [ 'c324777ad44fe5de9aa57057be8bff851',clMID]
+def  lineBot（op）
+    嘗試：
         if op.type == 0:
             return
         if op.type == 26 or op.type == 25:
